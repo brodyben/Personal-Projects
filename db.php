@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "password";
-$database = "WebsiteDB";
+$servername = 'localhost';
+$username = 'id504877_benjaminbrody';
+$password = 'password';
+$database = 'id504877_websitedb';
 
 ?>
